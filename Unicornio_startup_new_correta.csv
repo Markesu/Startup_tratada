@@ -1,4 +1,7 @@
-﻿Company;Valuation ($B);Date Joined;Country;City;Industry;Select Inverstors;Founded Year;Total Raised;Investors Count;Deal Terms
+﻿Company;Valuation;Date Joined;Country;City;Industry;Select Inverstors;Founded Year;Total Raised;Investors Count;Deal Terms;
+Bytedance;140;04/07/2017;China;Beijing;Artificial intelligence;Sequoia Capital China, SIG Asia Investments, Sina Weibo, Softbank Group;2012;7.44;28;8
+SpaceX;100.30 ;12/01/2012;United States;Hawthorne;Other;Founders Fund, Draper Fisher Jurvetson, Rothenberg Ventures;2002;6.874;29;12
+Stripe;95;1/23/2014;United States;San Francisco;Fintech;Khosla Ventures, LowercaseCapital, capitalG;2010;2.901;39;12
 Klarna;45.60 ;12/12/2011;Sweden;Stockholm;Fintech;Institutional Venture Partners, Sequoia Capital, General Atlantic;2005;3.472;56;13
 Epic Games;42;10/26/2018;United States;Cary;Other;Tencent Holdings, KKR, Smash Ventures;1991;4.377;25;5
 Canva;40;01/08/2018;Australia;Surry Hills;Internet software & services;Sequoia Capital China, Blackbird Ventures, Matrix Partners;2012;0.57126;26;8
