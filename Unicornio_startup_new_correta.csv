@@ -663,7 +663,7 @@ Huisuanzhang;1.28 ;5/24/2021;China;Beijing;Fintech;IDG Capital, Gaocheng Capital
 WTOIP;1.27 ;04/08/2018;China;Guangzhou;Internet software & services;Dark Horse Technology Group, Hopu Investment Management, Kefa Capital;0;0.30698000000000003;11;1
 BigID;1.25 ;12/16/2020;United States;New York;Cybersecurity;BOLDstart Ventures, SAP.iO Fund, Scale Venture Partners;2015;0.24609999999999999;19;4
 Kuaikan Manhua;1.25 ;12/01/2017;China;Beijing;Internet software & services;Sequoia Capital China, CMC Capital Partners, Tencent Holdings;2014;0.595;14;3
-Marshmallow;1.25 ;09/08/2021;United Kingdom;London;Fintech;"Passion Capital, Hedosophia, 	Outrun Ventures";2017;0.1162;6;2
+Marshmallow;1.25 ;09/08/2021;United Kingdom;London;Fintech;Passion Capital, Hedosophia, 	Outrun Ventures;2017;0.1162;6;2
 Honor Technology;1.25 ;10/05/2021;United States;San Francisco;Internet software & services;Andreessen Horowitz, Prosus Ventures, Thrive Capital;2014;0.62212;53;4
 Mythical Games;1.25 ;11/04/2021;United States;Sherman Oaks;Internet software & services;Javelin Venture Partners, Struck Capital, Alumni Ventures Group;2018;0.26;31;1
 Incode Technologies;1.25 ;12/07/2021;United States;San Francisco;Cybersecurity;Dila Capital, Framework Ventures, 3L;2015;0.255;12;1
@@ -764,7 +764,7 @@ Acko General Insurance;1.10 ;10/18/2021;India;Bengaluru;Fintech;Intact Ventures,
 Daily Harvest;1.10 ;11/16/2021;United States;New York;E-commerce & direct-to-consumer;M13, Lightspeed Venture Partners, Lone Pine Capital;2014;0.12098;15;2
 The Bank of London;1.10 ;11/30/2021;United Kingdom;London;Fintech;Mangrove Capital Partners,14W. ForgeLight;2018;0.09;3;1
 Fundbox;1.10 ;11/30/2021;United States;San Francisco;Fintech;Khosla Ventures, General Catalyst, Blumberg Capital;2013;0.5535;34;4
-Turing;1.10 ;12/20/2021;United States;Palo Alto;Internet software & services;"Foundation Capital, 	Frontier Ventures, AltaIR Capital";2018;0.13605;91;1
+Turing;1.10 ;12/20/2021;United States;Palo Alto;Internet software & services;Foundation Capital, 	Frontier Ventures, AltaIR Capital;2018;0.13605;91;1
 GlobalBees;1.10 ;12/28/2021;India;New Delhi;E-commerce & direct-to-consumer;Chiratae Ventures, SoftBank Group, Trifecta Capital;2021;0.2915;8;1
 LEAD School;1.10 ;1/13/2022;India;Andheri;Edtech;WestBridge Capital, GSV Ventures, Elevar Equity;2012;0.166;6;1
 eSentire;1.10 ;2/22/2022;Canada;Waterloo;Cybersecurity;Edison Partners, Georgian Partners, VentureLink;2001;0.28787999999999997;12;2
@@ -779,7 +779,7 @@ Mamaearth;1.07 ;12/28/2021;India;Gurgaon;E-commerce & direct-to-consumer;Firesid
 Jiuxian;1.05 ;7/30/2015;China;Beijing;E-commerce & direct-to-consumer;Sequoia Capital China, Rich Land Capital, Merrysunny Wealth;2009;0.24921000000000001;8;3
 Instabase;1.05 ;10/21/2019;United States;San Francisco;Data management & analytics;New Enterprise Associates, Greylock Partners, Andreessen Horowitz;2015;0.13194;9;3
 Sendbird;1.05 ;04/06/2021;United States;San Mateo;Mobile & telecommunications;FundersClub, Y Combinator, Tiger Global Management;2013;0.21963999999999997;16;2
-Density;1.05 ;11/10/2021;United States;San Francisco;Hardware;"Founders Fund, Upfront Ventures, 	01 Advisors";2014;0.21719999999999998;22;2
+Density;1.05 ;11/10/2021;United States;San Francisco;Hardware;Founders Fund, Upfront Ventures, 	01 Advisors;2014;0.21719999999999998;22;2
 Mixpanel;1.05 ;11/15/2021;United States;San Francisco;Internet software & services;Bain Capital Tech Opportunities, Andreessen Horowitz, Sequoia Capital;2009;0.28452;10;3
 Aprogen;1.04 ;5/31/2019;South Korea;Seongnam-Si;Health;Lindeman Asia Investment, Nichi-Iko Pharmaceutical;2000;0.062119999999999995;2;3
 OrCam Technologies;1.03 ;2/20/2018;Israel;Jerusalem;Artificial intelligence;Intel Capital, Aviv Venture Capital;2010;0.07740000000000001;5;2
@@ -923,8 +923,8 @@ JoyTunes;1;6/21/2021;Israel;Tel Aviv;Edtech;Genesis Partners, Aleph, Insight Par
 Aircall;1;6/23/2021;United States;New York;Internet software & services;Balderton Capital, Next World Capital, Draper Esprit;2014;0.22563;15;3
 SmartAsset;1;6/24/2021;United States;New York;Fintech;Javelin Venture Partners, TTV Capital, Peterson Ventures;2012;0.15762;17;4
 Morning Consult;1;06/08/2021;United States;Washington DC;Internet software & services;Advance Venture Partners, Susquehanna Growth Equity, Lupa Systems;2014;0.091;3;2
-Visier;1;6/29/2021;Canada;Vancouver;Internet software & services;"Foundation Capital, 	Summit Partners, Adams Street Partners";2010;0.2165;5;3
-ShipBob;1;6/29/2021;United States;Chicago;Supply chain, logistics, & delivery;"Hyde Park Venture Partners,	FundersClub. Bain Capital Ventures";2014;0.3311;13;3
+Visier;1;6/29/2021;Canada;Vancouver;Internet software & services;Foundation Capital, 	Summit Partners, Adams Street Partners;2010;0.2165;5;3
+ShipBob;1;6/29/2021;United States;Chicago;Supply chain, logistics, & delivery;Hyde Park Venture Partners,	FundersClub. Bain Capital Ventures;2014;0.3311;13;3
 Blinkit;1.01 ;6/30/2021;India;Gurgaon;Supply chain, logistics, & delivery;Tiger Global Management, Sequoia Capital India, SoftBank Group;2013;0.57382;9;9
 Kitopi;1;07/01/2021;United Arab Emirates;Dubai;Supply chain, logistics, & delivery;CE-Ventures, BECO Capital, Nordstar;2018;0.5022;17;1
 bolttech;1;07/01/2021;Singapore;Fintech;Mundi Ventures, Doqling Capital Partners, Activant Capital;0;2018;0.5022;17;1
